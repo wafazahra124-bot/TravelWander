@@ -6,12 +6,30 @@ TravelWander is a simple travel website built with HTML and CSS. It showcases tr
 [https://wafazahra124-bot.github.io/TravelWander/](https://wafazahra124-bot.github.io/TravelWander/)
 
 ## 📄 Pages
-- **Home** (`index.html`) – Landing page with a welcome message and intro to TravelWander
-- **Packages** (`packages.html`) – Browse curated travel packages
-- **Destinations** (`destination.html`) – Explore travel destinations
-- **Contact** (`contact.html`) – Get in touch
-- **Login** (`login page.html`) – Sign up or log in to continue
-- **Thank You** (`thankyou.html`) – Confirmation page
+
+### Home (`index.html`)
+Landing page with a welcome message and intro to TravelWander.
+![Home Page](images/home.PNG)
+
+### Packages (`packages.html`)
+Browse curated travel packages.
+![Packages Page](images/packages.PNG)
+
+### Destinations (`destination.html`)
+Explore travel destinations.
+![Destinations Page](images/destinations.PNG)
+
+### Contact (`contact.html`)
+Get in touch.
+![Contact Page](images/contact.PNG)
+
+### Login (`login page.html`)
+Sign up or log in to continue.
+![Login Page](images/login.PNG)
+
+### Thank You (`thankyou.html`)
+Confirmation page.
+![Thank You Page](images/thankyou.PNG)
 
 ## 🛠️ Built With
 - HTML5
@@ -30,7 +48,13 @@ TravelWander/
 └── images/
 ├── beech.jpg
 ├── mountains.jpg
-└── travelwanderlogo.jpg
+├── travelwanderlogo.jpg
+├── home.PNG
+├── packages.PNG
+├── destinations.PNG
+├── contact.PNG
+├── login.PNG
+└── thankyou.PNG
 
 
 ## 🚀 Getting Started
